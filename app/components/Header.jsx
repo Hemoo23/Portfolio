@@ -7,8 +7,8 @@ function Header() {
     <header className="bg-[#1f242a] text-white sticky top-0 z-50">
       <div className="flex items-center h-[100px] px-6 md:px-10 justify-between md:justify-around md:gap-35">
         <div>
-          <h1 className="text-3xl md:text-4xl font-bold font-[hero]">PORTFOLIO</h1>
-        </div>
+          <a href="#home" className="hover:text-[#0ef] transition-all duration-300 ease-in-out"><h1 className="text-3xl md:text-4xl font-bold">Hemoo.Dev</h1></a>
+        </div>  
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex gap-6 font-bold text-lg">

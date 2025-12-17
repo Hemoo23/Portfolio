@@ -53,13 +53,13 @@ const Resume = () => {
                         </li>
                         <li>
                             <h1 className="font-bold text-[#0ef] text-base sm:text-lg">Chanakya Mat.Hr.Sec.School</h1>
-                            <h2 className="font-bold text-sm sm:text-md">B.com (Comp.Appln)</h2>
-                            <p className="text-xs sm:text-sm md:text-sm">Completed B.com in the year 2022 with GPA of 6.6</p>
+                            <h2 className="font-bold text-sm sm:text-md">H.S.E</h2>
+                            <p className="text-xs sm:text-sm md:text-sm">Completed HSC in the year 2019 with Percentage of 68</p>
                         </li>
                         <li>
                             <h1 className="font-bold text-[#0ef] text-base sm:text-lg">Sri Saraswathy Vikas Mat.Hr.Sec.School</h1>
-                            <h2 className="font-bold text-sm sm:text-md">B.com (Comp.Appln)</h2>
-                            <p className="text-xs sm:text-sm md:text-sm">Completed B.com in the year 2022 with GPA of 6.6</p>
+                            <h2 className="font-bold text-sm sm:text-md">S.S.L.C</h2>
+                            <p className="text-xs sm:text-sm md:text-sm">Completed SSLC in the year 2017 with Percentage of 76</p>
                         </li>
                     </ul>
                 </div>
